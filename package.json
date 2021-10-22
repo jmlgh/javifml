@@ -1,10 +1,11 @@
 {
     "name": "javifml",
+    "description": "Get to know Javi via `npx javifml`",
     "version": "1.1.0",
     "bin": {
         "javifml": "index.js"
     },
     "dependencies": {
-        "clear-any-console": "^1.16.2"
+        "cli-welcome": "^2.2.2"
     }
 }
