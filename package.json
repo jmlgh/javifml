@@ -1,7 +1,7 @@
 {
     "name": "javifml",
     "description": "Get to know Javi via `npx javifml`",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "bin": {
         "javifml": "index.js"
     },
