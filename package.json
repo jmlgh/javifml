@@ -1,0 +1,7 @@
+{
+    "name": "javifml",
+    "version": "1.0.0",
+    "bin": {
+        "javifml": "index.js"
+    }
+}
